@@ -4,5 +4,9 @@ secound line for correction
 third line for dev branch add
 =======
 third line in list for merge conflict
+<<<<<<< HEAD
 >>>>>>> list
 dev bracnh added
+=======
+fourth line added in list branch
+>>>>>>> list
