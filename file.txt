@@ -1,3 +1,7 @@
 First line for setup
 secound line for correction
+<<<<<<< HEAD
 third line for dev branch add
+=======
+third line in list for merge conflict
+>>>>>>> list
