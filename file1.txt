@@ -1,1 +1,2 @@
 delettion file
+line added to use git checkout --filename.txt
